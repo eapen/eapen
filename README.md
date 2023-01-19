@@ -1,7 +1,7 @@
 
 # 👋
 
-- 🔭 I work at Facebook and have worked on backend, data processing and most recently on the Android app
+- 🔭 I work at WhatsApp (Meta) and have worked on backend, data processing and most recently on the Android app
 - 🌱 Interested in Machine Learning and have done a few courses on Coursera and deeplearning.ai 
 - 💬 Ask me about ...
 - 📫 How to reach me: [@eepen](https://twitter.com/eepen)
